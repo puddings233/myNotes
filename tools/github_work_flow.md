@@ -14,5 +14,5 @@
 13. git pull orgin main 拉取远端最新分支，为下一次修改做准备
 ## 注意
 - 参考自[video](https://www.bilibili.com/video/BV19e4y1q7JJ)
-- 接受Pr时使用squash and merge
-- 可以先fork
+- 接受Pr时**尽量**使用squash and merge
+- **必须**先fork
